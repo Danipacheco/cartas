@@ -1,2 +1,2 @@
-# cartas
-Juegos al azar
+# naipes
+juegos de naipes con javascript
